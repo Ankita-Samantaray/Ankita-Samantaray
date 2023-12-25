@@ -12,7 +12,7 @@
     🌱 I’m currently learning Web development & DSA in C 
     🤔 I’m looking for help with AI/ML 
     😄 Pronouns: She/her
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">  
+  <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">  
 ..🌼..
 <div id="header">
      
