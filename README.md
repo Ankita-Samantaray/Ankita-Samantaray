@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/tnLPi4IVEnG2Q/giphy.gif"> 
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/tnLPi4IVEnG2Q/giphy.gif"> 
    
 #    .. 🍄𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 .. 
 
