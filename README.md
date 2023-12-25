@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/tnLPi4IVEnG2Q/giphy.gif"> 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/tnLPi4IVEnG2Q/giphy.gif"> 
    
 #    .. 🍄𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 .. 
 
@@ -16,7 +16,7 @@
 ..🌼..
 <div id="header">
      
-                            " Embarace the Bugs,Master the Code . "
+            " Embarace the Bugs,Master the Code . "
 </div>
 
                          
