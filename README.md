@@ -40,10 +40,7 @@
   </a>
   </a>
 </div>
- <img align="left" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">  
-<div id="header">
-  <img align="right" src="https://media.giphy.com/media/kOXvLje0ahPb72fVLn/giphy.gif" width="300"> 
-</div>
+
 
   <div id="badges">
  <img src="https://komarev.com/ghpvc/?Ankita-Samantaray&style=flat-square&color=blue" alt=""/>
