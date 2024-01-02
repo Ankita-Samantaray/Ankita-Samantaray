@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/YonLG8vVHqSowKfTt4/giphy.gif" width="900">
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/P5gdDmXhriPb37PzKq/giphy.gif"> 
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.gif"> 
    
 #    .. 🍄𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 .. 
 
