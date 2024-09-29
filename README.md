@@ -1,10 +1,11 @@
 
    
+![Screenshot 2024-09-29 215206](https://github.com/user-attachments/assets/f7aec23f-fdd1-41e8-8ae4-49a20bc5c2d8)
 
 
  <div id="header">
   
-<img src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif" width="300" >
 
 
 
