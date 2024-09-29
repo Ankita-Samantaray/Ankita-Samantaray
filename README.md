@@ -1,7 +1,7 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.gif"> 
    
-# HELLO WORLD!
+
 
  <div id="header">
   
