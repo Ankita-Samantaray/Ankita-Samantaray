@@ -1,6 +1,7 @@
 
    
-<img src="https://github.com/user-attachments/assets/c40d4885-7061-4fd7-b7d0-2fac5f21501a" alt="Screenshot" width="1000" height="400" />
+<img src="https://github.com/user-attachments/assets/163ea8d5-b4ed-494e-8c59-4f9a9d8c4120" alt="Screenshot" width="800" height="400" />
+
 
 
 
