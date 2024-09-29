@@ -13,7 +13,7 @@
     🤔 I’m looking for working in more innovative projects.
     😄 Pronouns: She/her
  
-..🌼..
+🌼
 <div id="header">
      
             " Embarace the Bugs,Master the Code . "
