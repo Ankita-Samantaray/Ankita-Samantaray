@@ -9,9 +9,9 @@
 
 
 
-    🔭 I’m currently working on Frontend Development 
-    🌱 I’m currently learning Web development & DSA in C 
-    🤔 I’m looking for help with AI/ML 
+    🔭 I’m currently working on Cybersecurity and AI.
+    🌱 I’m currently learning Web development & DSA in Java and C++
+    🤔 I’m looking for working in more innovative projects.
     😄 Pronouns: She/her
  
 ..🌼..
