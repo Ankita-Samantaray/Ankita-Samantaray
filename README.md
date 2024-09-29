@@ -1,7 +1,7 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.gif"> 
    
-#    .. 🍄𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 .. 
+# HELLO WORLD!
 
  <div id="header">
   
@@ -30,24 +30,17 @@
 </p>          
           
 
-# ..𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚..
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ankita-samantaray-84812a25b/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC2zIvzjxJtoG8l0AqaI5gqg">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" />
-  </a>
-  <a href="https://twitter.com/Anks1ta5">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" />
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
-  <a href="https://www.instagram.com/anks_1.ta5/"> 
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
-  </a>
-  </a>
-</div>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC2zIvzjxJtoG8l0AqaI5gqg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Anks1ta5"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/channels/@me" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/ankita-samantaray-84812a25b/"><img width="32px" alt="Patreon" title="Patreon" src="https://imgur.com/gallery/linkedin-gray-2-icon-CzgyMf8"/></a>
+</p>
+
 
 
   <div id="badges">
