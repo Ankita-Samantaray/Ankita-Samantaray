@@ -3,7 +3,7 @@
 
 
 
-![!DOCTYPE html html head meta charset=utf-8 meta name=viewport content=width=device-width style  loader { position fixed; top 50; transform translate(-50); width 160px;  Increased](https://github.com/user-attachments/assets/4f4ace15-75e0-48dd-b9ae-1946d705be80)
+![!DOCTYPE html html head meta charset=utf-8 meta name=viewport content=width=device-width style  loader { position fixed; top 50; transform translate(-50); width 100px; Increased](https://github.com/user-attachments/assets/4f4ace15-75e0-48dd-b9ae-1946d705be80)
 
 
 
