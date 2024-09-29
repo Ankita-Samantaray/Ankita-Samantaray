@@ -5,7 +5,7 @@
 
  <div id="header">
   
-<img src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif" width="300" >
+<img src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif" width="90" >
 
 
 
