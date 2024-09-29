@@ -1,9 +1,10 @@
 
    
-<img src="https://github.com/user-attachments/assets/163ea8d5-b4ed-494e-8c59-4f9a9d8c4120" alt="Screenshot" width="800" height="400" />
 
 
-![Loader Animation](https://github.com/Ankita-Samantaray/Ankita-Samantaray/blob/main/path_to_your_loader.gif?raw=true)
+
+![!DOCTYPE html html head meta charset=utf-8 meta name=viewport content=width=device-width style  loader { position fixed; top 50; transform translate(-50); width 160px;  Increased](https://github.com/user-attachments/assets/4f4ace15-75e0-48dd-b9ae-1946d705be80)
+
 
 
 
