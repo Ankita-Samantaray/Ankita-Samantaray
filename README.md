@@ -1,6 +1,8 @@
 
    
-![Screenshot 2024-09-29 215102](https://github.com/user-attachments/assets/27906310-7f31-4713-98a7-fbf2bd7ec4f7)
+<img src="https://github.com/user-attachments/assets/27906310-7f31-4713-98a7-fbf2bd7ec4f7" alt="Screenshot" width="900" height="400" />
+
+
 
 
  <div id="header">
