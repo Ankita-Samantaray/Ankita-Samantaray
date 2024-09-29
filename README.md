@@ -38,7 +38,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/@me" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ankita-samantaray-84812a25b/"><img width="32px" alt="Patreon" title="Patreon" src="https://imgur.com/gallery/linkedin-gray-2-icon-CzgyMf8"/></a>
 </p>
 
 
