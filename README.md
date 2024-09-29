@@ -1,5 +1,4 @@
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.gif"> 
    
 
 
@@ -18,6 +17,8 @@
 <div id="header">
      
             " Embarace the Bugs,Master the Code . "
+
+            
 </div>
 
 <p align="center">
