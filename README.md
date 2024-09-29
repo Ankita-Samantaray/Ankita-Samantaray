@@ -3,6 +3,7 @@
 <img src="https://github.com/user-attachments/assets/163ea8d5-b4ed-494e-8c59-4f9a9d8c4120" alt="Screenshot" width="800" height="400" />
 
 
+![Loader Animation](https://github.com/Ankita-Samantaray/Ankita-Samantaray/blob/main/path_to_your_loader.gif?raw=true)
 
 
 
